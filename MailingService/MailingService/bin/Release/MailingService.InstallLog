@@ -1,0 +1,76 @@
+﻿Installing assembly 'C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.InstallLog
+   assemblypath = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe
+Installing service MailingServiceTest...
+Service MailingServiceTest has been successfully installed.
+Creating EventLog source MailingServiceTest in log Application...
+Committing assembly 'C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.InstallLog
+   assemblypath = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe
+Uninstalling assembly 'C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.InstallLog
+   assemblypath = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe
+Removing EventLog source MailingServiceTest.
+Service MailingServiceTest is being removed from the system...
+Service MailingServiceTest was successfully removed from the system.
+Installing assembly 'C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.InstallLog
+   assemblypath = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe
+Installing service MailingServiceTest...
+Service MailingServiceTest has been successfully installed.
+Creating EventLog source MailingServiceTest in log Application...
+Committing assembly 'C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.InstallLog
+   assemblypath = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe
+Uninstalling assembly 'C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.InstallLog
+   assemblypath = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe
+Removing EventLog source MailingServiceTest.
+Service MailingServiceTest is being removed from the system...
+Service MailingServiceTest was successfully removed from the system.
+Installing assembly 'C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.InstallLog
+   assemblypath = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe
+Installing service MailingServiceTest...
+Service MailingServiceTest has been successfully installed.
+Creating EventLog source MailingServiceTest in log Application...
+Committing assembly 'C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.InstallLog
+   assemblypath = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe
+Uninstalling assembly 'C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.InstallLog
+   assemblypath = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe
+Removing EventLog source MailingServiceTest.
+Service MailingServiceTest is being removed from the system...
+Service MailingServiceTest was successfully removed from the system.
+Installing assembly 'C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.InstallLog
+   assemblypath = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe
+Installing service MailingServiceTest...
+Service MailingServiceTest has been successfully installed.
+Creating EventLog source MailingServiceTest in log Application...
+Committing assembly 'C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.InstallLog
+   assemblypath = C:\Users\Admin\Documents\Visual Studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe

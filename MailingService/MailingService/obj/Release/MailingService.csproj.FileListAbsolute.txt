@@ -1,0 +1,8 @@
+C:\Users\Admin\documents\visual studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe.config
+C:\Users\Admin\documents\visual studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.exe
+C:\Users\Admin\documents\visual studio 2015\Projects\MailingService\MailingService\bin\Release\MailingService.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\MailingService\MailingService\obj\Release\MailingService.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2015\Projects\MailingService\MailingService\obj\Release\MailingService.exe
+C:\Users\Admin\documents\visual studio 2015\Projects\MailingService\MailingService\obj\Release\MailingService.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\MailingService\MailingService\obj\Release\MailingService.ProjectInstaller.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\MailingService\MailingService\obj\Release\MailingService.csproj.GenerateResource.Cache

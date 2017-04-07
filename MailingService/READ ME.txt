@@ -1,0 +1,9 @@
+First fill in following details in app config:
+1) Folder location
+2) User name 
+3) Password
+
+If you are viewing in visual studio, run using "debug" setting to not have to install.
+If you are installing the service, use release build from release folder.
+
+Tested using hotmail to gmail communication. 
